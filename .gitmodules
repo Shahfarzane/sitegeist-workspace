@@ -1,0 +1,12 @@
+[submodule "sitegeist"]
+	path = sitegeist
+	url = https://github.com/Shahfarzane/sitegeist.git
+	branch = main
+[submodule "mini-lit"]
+	path = mini-lit
+	url = https://github.com/Shahfarzane/mini-lit.git
+	branch = sitegeist
+[submodule "pi-mono"]
+	path = pi-mono
+	url = https://github.com/Shahfarzane/pi-mono.git
+	branch = sitegeist
